@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FairVis/static/css/main.6cc91895.chunk.css",
+    "main.js": "/FairVis/static/js/main.c03dcfd1.chunk.js",
+    "main.js.map": "/FairVis/static/js/main.c03dcfd1.chunk.js.map",
+    "runtime-main.js": "/FairVis/static/js/runtime-main.b0a24695.js",
+    "runtime-main.js.map": "/FairVis/static/js/runtime-main.b0a24695.js.map",
+    "static/js/2.f5ca92f5.chunk.js": "/FairVis/static/js/2.f5ca92f5.chunk.js",
+    "static/js/2.f5ca92f5.chunk.js.map": "/FairVis/static/js/2.f5ca92f5.chunk.js.map",
+    "index.html": "/FairVis/index.html",
+    "precache-manifest.f6d08f0987f32c8421d1f005a45054b4.js": "/FairVis/precache-manifest.f6d08f0987f32c8421d1f005a45054b4.js",
+    "service-worker.js": "/FairVis/service-worker.js",
+    "static/css/main.6cc91895.chunk.css.map": "/FairVis/static/css/main.6cc91895.chunk.css.map",
+    "static/js/2.f5ca92f5.chunk.js.LICENSE.txt": "/FairVis/static/js/2.f5ca92f5.chunk.js.LICENSE.txt",
+    "static/media/adult.csv": "/FairVis/static/media/adult.94c06f58.csv",
+    "static/media/compas.csv": "/FairVis/static/media/compas.bd26b7d4.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0a24695.js",
+    "static/js/2.f5ca92f5.chunk.js",
+    "static/css/main.6cc91895.chunk.css",
+    "static/js/main.c03dcfd1.chunk.js"
+  ]
+}
