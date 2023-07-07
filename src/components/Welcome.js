@@ -122,7 +122,7 @@ class Welcome extends Component {
           color="inherit"
           className={classes.loadingText}
         >
-          <strong>FairVis</strong>{" "}
+          <strong>SIDVis</strong>{" "}
         </Typography>
         <Typography variant="h6" className={classes.subtitle}>
           Audit Classification Models for Intersectional Bias
@@ -151,7 +151,7 @@ class Welcome extends Component {
                     UCI Adult
                   </a>
                 </TableCell>
-                <TableCell>Predict income >$50K</TableCell>
+                <TableCell>Predict income $50K</TableCell>
                 <TableCell>32,562</TableCell>
                 <TableCell align="right">
                   <Button
