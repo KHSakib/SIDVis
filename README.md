@@ -2,7 +2,7 @@
 
 **FairVis** is a visual analytics system that allows users to audit their classification models for intersectional bias. Users can generate subgroups of their data and investigate if a model is underperforming for certain populations.
 
-* Try a **[live demo](https://poloclub.github.io/FairVis/)**!
+* Try a **[live demo](https://KHSakib.github.io/SIDVis/)**!
 * Read the **[full paper](https://arxiv.org/abs/1904.05419)**.
 * **[Cite this work and more](https://cabreraalex.com/#/paper/fairvis)**.
 
@@ -29,7 +29,7 @@ For more details about the system and its use cases, see the [IEEE VAST paper][p
 Clone the repository:
 
 ```
-git clone https://github.com/poloclub/FairVis.git
+git clone https://github.com/KHSakib/SIDVis.git
 ```
 
 Then initialize the React project by running
