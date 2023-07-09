@@ -29,7 +29,7 @@ For more details about the system and its use cases, see the [IEEE VAST paper][p
 Clone the repository:
 
 ```
-git clone https://github.com/poloclub/FairVis.git
+git clone https://github.com/KHSakib/SIDVis.git
 ```
 
 Then initialize the React project by running
